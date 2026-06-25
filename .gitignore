@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+finance/models/*.pkl
+
+finance/outputs/*.png
+finance/outputs/*.jpg
+
+.ipynb_checkpoints/
+.env
